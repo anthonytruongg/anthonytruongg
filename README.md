@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @anthonytruongg
+- 👋 Hi, I’m @anthonytruongg.
+- 😇 I am a Self Taught Full Stack Developer. 
+- 🥸 I am also a Computer Engineering student!
 - 👀 I’m interested in web development, machine learning, and AI.
-- 🌱 I’m currently learning different frameworks such as React and Node + Express to launch full stack applications.
+- 🌱 I’m currently building projects out with React, Express, Node, and MongoDB.
 - 💞️ I’m looking to collaborate on any projects!
 - 📫 How to reach me: my email :)
 
