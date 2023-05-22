@@ -1,7 +1,7 @@
 # About Me :)
 
 - 👋 Hi, I’m @anthonytruongg, a Computer Engineering Student!
-- 😇 I am a Self Taught Full Stack Developer. (shoutout to 'TOP' - The Odin Project)
+- 😇 I am a Self Taught Full Stack Developer. I spend my summer and winter breaks from school learning :)
 - 👀 I’m interested in web development, machine learning, and AI.
 - 💪 When I am not coding, I enjoy playing video games and keeping an active lifestyle.
 - 🌱 I’m currently building projects out with React, Express, Node, and MongoDB.
