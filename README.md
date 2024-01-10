@@ -1,11 +1,10 @@
 # About Me :)
 
 - 👋 Hi, I’m @anthonytruongg, a Computer Engineering Student!
-- 👀 I’m interested in software development, machine learning, and AI.
-- 💪 When I am not coding, I enjoy playing video games and keeping an active lifestyle.
+- 👀 I am interested in full-stack or back-end software development.
+- 💪 When I am not coding, I enjoy keeping an active lifestyle.
 
-- 🧑🏻‍💻 I am currently working as a Quality Engineer Intern for a electronics manufactoring company. Recently, I was able to work on developing a C# program to interact with hardware.
-
+- 🧑🏻‍💻 I am currently working as an Engineer with focus on embedded systems.
 
 # Contact:
 ## anthonytruongg1@gmail.com
