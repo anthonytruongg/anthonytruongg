@@ -1,7 +1,7 @@
 # About Me
 
 ## Major
-- 👋 Hi, I am majoring in Computer Engineering.
+- 👋 Currently majoring in Computer Engineering.
 
 ## Interest
 - 👀 I am interested in full-stack or back-end software development.
