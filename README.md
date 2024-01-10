@@ -1,6 +1,6 @@
 # About Me :)
 
-- 👋 Hi, I’m @anthonytruongg, a Computer Engineering Student!
+- 👋 Hi, I am majoring in Computer Engineering.
 - 👀 I am interested in full-stack or back-end software development.
 - 💪 When I am not coding, I enjoy keeping an active lifestyle.
 
